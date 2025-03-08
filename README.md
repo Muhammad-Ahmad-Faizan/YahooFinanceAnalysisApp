@@ -25,7 +25,7 @@ This interactive web app analyzes and forecasts stock prices using real-time dat
 
 ## 🚀 How to Run Locally
 1. **Clone the repo**:
-```bash
+bash
 git clone https://github.com/your-username/your-repo-name.git
 cd your-repo-name
 

@@ -1,4 +1,4 @@
-# 'images\logo.png' Yahoo Finance Stock Analysis & Forecasting Web App
+# Yahoo Finance Stock Analysis & Forecasting Web App
 
 🚀 **Live Demo:** [yahoofinanceanalysis.streamlit.app](https://yahoofinanceanalysis.streamlit.app/)
 
@@ -76,7 +76,7 @@ Stock-Market-Analysis/
 This app simplifies stock market analysis, making data-driven decisions easier and more effective. Perfect for investors, financial analysts, and data science enthusiasts.
 🤝 Connect with Me
 
-LinkedIn: [(Muhammad Ahmad Faizan)]](https://www.linkedin.com/in/muhammad-ahmad-faizan/)
+LinkedIn: [Muhammad Ahmad Faizan](https://www.linkedin.com/in/muhammad-ahmad-faizan/)
 GitHub: [Muhammad-Ahmad-Faizan](https://github.com/Muhammad-Ahmad-Faizan)
 
 © 2025 | Built with ❤️ using Python, Streamlit, and Plotly

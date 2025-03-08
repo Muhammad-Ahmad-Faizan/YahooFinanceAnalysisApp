@@ -1,0 +1,9 @@
+# Ignore virtual environment
+stock_env/
+
+# Ignore installed packages
+__pycache__/
+*.pyc
+*.pyo
+# Ignore Jupyter notebook checkpoints 
+.ipynb_checkpoints/

@@ -25,23 +25,23 @@ This interactive web app analyzes and forecasts stock prices using real-time dat
 
 ## 🚀 How to Run Locally
 1. **Clone the repo**:
-bash
-git clone https://github.com/Muhammad-Ahmad-Faizan/YahooFinanceAnalysisApp.git
+    bash
+    git clone https://github.com/Muhammad-Ahmad-Faizan/YahooFinanceAnalysisApp.git
 cd your-repo-name
 
     Create a virtual environment:
 
 # For Windows
-python -m venv env
-env\Scripts\activate
+    python -m venv env
+    env\Scripts\activate
 
 # For Mac/Linux
-python3 -m venv env
-source env/bin/activate
+    python3 -m venv env
+    source env/bin/activate
 
     Install dependencies:
 
-pip install -r requirements.txt
+    pip install -r requirements.txt
 
     Run the app:
 
@@ -50,20 +50,6 @@ streamlit run main.py
     Open in browser:
 
 http://localhost:8501/
-
-🗂️ Project Structure
-
-Stock-Market-Analysis/
-│
-├── images/
-│   ├── logo1.png                  # App logo
-│   ├── app_screenshot.png         # Optional screenshot for README
-│
-├── main.py                        # Streamlit app
-│
-├── requirements.txt               # Python dependencies
-│
-├── README.md                      # Project documentation
 
 🧠 Future Enhancements
 

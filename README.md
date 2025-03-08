@@ -45,11 +45,11 @@ cd your-repo-name
 
     Run the app:
 
-streamlit run main.py
+    streamlit run main.py
 
-    Open in browser:
+Open in browser:
 
-http://localhost:8501/
+    http://localhost:8501/
 
 🧠 Future Enhancements
 

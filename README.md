@@ -68,15 +68,5 @@ GitHub: [Muhammad-Ahmad-Faizan](https://github.com/Muhammad-Ahmad-Faizan)
 © 2025 | Built with ❤️ using Python, Streamlit, and Plotly
 
 
-**📝 Quick Breakdown:**  
-- Clear project overview and feature list  
-- Easy setup and deployment steps  
-- Tech stack and project structure  
-- Future enhancements and insights  
-- Social links and credits  
-
-Make sure to replace placeholders like `your-username` and `your-repo-name`!  
-
-Let me know if you’d like any adjustments! 🚀  
 
 

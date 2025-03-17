@@ -22,6 +22,15 @@ This interactive web app analyzes and forecasts stock prices using real-time dat
 - **Statsmodels (SARIMA)**: Time series forecasting.
 - **Scikit-learn**: Model evaluation.
 - **Pandas, NumPy**: Data manipulation.
+## 📸 Screenshots
+![image](https://github.com/user-attachments/assets/67a9cff1-b340-4b47-ada5-061e26256cae)
+![image](https://github.com/user-attachments/assets/7653b45d-8345-403d-a489-ca9287f7e6a5)
+![image](https://github.com/user-attachments/assets/b98f96dd-9e9e-406a-b0a3-361a178d19d7)
+![Uploading image.png…]()
+
+
+
+
 
 ## 🚀 How to Run Locally
 1. **Clone the repo**:
